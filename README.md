@@ -3,7 +3,7 @@
 
 I'm a software engineering student in his last year of studies.
 
-I love technologies and especially web development, I'm constantly learning about the frontend and the backend.
+I love technologies and especially web development, I'm constantly learning about the front-end and the back-end.
 
 ## Skills:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()

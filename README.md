@@ -1,4 +1,4 @@
-# ![varsdev](https://raw.githubusercontent.com/varsdev/varsdev/master/varsdev_logo.png)Hello, my name is Luis Guerrero
+# Hello, my name is Luis Guerrero
 ### Software engineering student
 
 I'm a software engineering student in his last year of studies.

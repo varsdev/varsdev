@@ -16,7 +16,6 @@ I love technologies and especially web development, I'm constantly learning abou
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![npm](https://img.shields.io/badge/npm-D83B01?style=for-the-badge&logo=npme&logoColor=white)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()

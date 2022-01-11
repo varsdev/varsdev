@@ -25,11 +25,6 @@ I love technologies and especially web development, I'm constantly learning abou
 And more...
 
 ## Find me at:
-
-[![Twitter](https://img.shields.io/badge/Twitter-@varsdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/varsdev)
-[![Instagram](https://img.shields.io/badge/Instagram-@varsdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/varsdev)
-[![Facebook](https://img.shields.io/badge/Facebook-@lvrascr-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/lvrascr)
-</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/varsdev)
 [![GitLab](https://img.shields.io/badge/GitLab-varsdev-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/varsdev)
 [![GitHub](https://img.shields.io/badge/GitHub-varsdev-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/varsdev)

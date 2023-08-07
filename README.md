@@ -1,11 +1,11 @@
 # Hello, my name is Luis Guerrero
 ### Software engineer - Salesforce Developer
 
-I'm a software engineer and actually work for Inforge as Salesforce Developer.
+I'm a software engineer currently working at Inforge as a Salesforce Developer.
 
-I'm a specialist in Salesforce Service Cloud and Experience Cloud, plus I would love to specialize even more in Salesforce.
+I specialize in Salesforce Service Cloud and Experience Cloud, and I am eager to further specialize in Salesforce.
 
-I love technologies and especially web development, I'm constantly learning about the front-end and the back-end.
+I have a passion for technology, particularly web development. I am constantly learning about both front-end and back-end technologies.
 
 ## Skills:
 
